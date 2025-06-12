@@ -1,7 +1,3 @@
-<p>
-  <img src="https://raw.githubusercontent.com/judcodeofficial/JudCode/main/banner-github.png"/>
-</p>
-
 <div style="display:flex;">
   <img src="https://komarev.com/ghpvc/?username=judcodeofficial&color=green&label=Coder+views&color=blueviolet"/>
   <a href="https://www.twitch.tv/judcode">
@@ -16,7 +12,38 @@
 </div>
 
 ## 🖖 This is me, world!
-<p>I love and enjoy topics about music & technology. Coder since forever. Fullstack developer.</p>
+Hey, I’m Julián, but around here I go by **judcode**.
+
+I’m a fullstack developer who enjoys building tools that *actually* solve problems. I specialize in C#, .NET, SQL Server, and JavaScript frameworks, but I’m always exploring new tech and architectures (microservices, serverless, you name it). My code reflects a balance between **structure and creativity**, like a Muse song with clean syntax.
+
+Outside the codebase, I’m the kind of guy who listens to *Muse on loop*, gets inspired by *Interstellar*, and melts at the sight of a good dog. 🐾
+
+You’ll often find me refining ERP systems, working on clever backend solutions, or casually automating life.
+
+## 🦔 Kai Evolve S.A.S.
+
+I’m the founder and CTO of **Kai Evolve S.A.S.**, a Colombian tech company focused on building powerful and accessible ERP solutions for growing businesses.
+
+Our flagship product is **KaiCRM** a modern ERP/CRM system designed for Latin American companies. We combine performance, clean UI, and deep customization to cover everything from invoicing and inventory to sales pipelines and production management.
+
+We believe software should adapt to your workflow not the other way around.
+
+🔗 [Follow us on Instagram](https://www.instagram.com/kaievolve/)  
+🌐 [Visit kai-evolve.com](https://kaievolve.com)
+
+-----
+
+> We build tools so others can thrive
+because time is relative, love is the constant,
+and somewhere, in the chaos, there’s a symphony worth coding for
+
+-----
+
+## 👨‍🚀 Fun facts
+
+- 🐕 I believe dogs are better than most meetings. Prove me wrong.
+- 🎸 Muse is my background soundtrack while debugging (and living).
+- 🪐 I’ve seen *Interstellar* more times than I’ve used `console.log` for debugging.
 
 ## 🥷 Special skills
 <div style="display:flex;align-items:center;margin-top: 10px;">
